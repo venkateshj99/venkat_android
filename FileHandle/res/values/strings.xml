@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FileHandleActivity!</string>
+    <string name="app_name">FileHandle</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="towrit">Write</string>
+    <string name="toread">Read</string>
+
+</resources>
